@@ -9,3 +9,5 @@ El algoritmo es capaz de realizar pruebas de hipótesis de una y dos colas de:
 
 Muestra los pasos que se realizan para las pruebas de hipótesis obteniendo el valor experimental,
  el P-Valor, grafica con los datos señalados con una conclusion ya sea rechazando o no la hipótesis nula (H0).
+
+#Falta agregar como se ejecuta el codigo.
